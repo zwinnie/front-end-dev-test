@@ -18,13 +18,13 @@ Includes:
 
 Good [morning/afternoon] [INSERT NAME],
 
-In your phone interview with Don, he mentioned that I would be reaching out to schedule some time to take a front end dev test. I’m email to see what your availability is in the next few days to take the test. The test itself will:
+In your phone interview with Don, he mentioned that I would be reaching out to schedule some time to take a front end dev test. I’m emailing to see what your availability is in the next few days to take the test. The test itself will:
 
 * Test your skills in HTML, CSS, and JS
 * Take 3 hours
 * Can be done during the day, after work, or on the weekend (your choice)
 * Need to be scheduled in advance
-* Only need a browser and internet connection to complete (via Codepen)
+* Only need a browser and internet connection to complete (via CodePen)
 * Consist of consuming an API to display some data
 * Be fun (if you like Star Wars and coding)
 
