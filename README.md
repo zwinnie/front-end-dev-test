@@ -34,13 +34,17 @@ Please reply and let me know when you can set aside a 3 hour window for me to ad
 
 Thank you!
 
+## Test Appointment
+
+Instructions will be send right before [ENTER START TIME] EST. You will be using CodePen to share your work.
+
 ## Test Email
 
 [INSERT NAME],
 
 The instructions and resources for the Front End Dev Test can be found here: https://www.dropbox.com/s/jrnw3tk2ptw20ac/front-end-dev-test.zip?dl=0. Download that ZIP file and read through the instructions before you start. Be sure to email me if you have any questions.
 
-Please begin at [ENTER START TIME] and end at [ENTER END TIME]. Instructions on what to do when you are finished are included in the ZIP file.
+Please begin at [ENTER START TIME] and end at [ENTER END TIME] EST. Instructions on what to do when you are finished are included in the ZIP file.
 
 Thank you!
 
