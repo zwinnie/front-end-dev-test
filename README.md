@@ -6,12 +6,9 @@ Test for prospective hires.
 
 Includes:
 
-* Instructions Word doc
-* Instructions PDF
+* Instructions (Word and PDF formats)
 * Resources (Font Awesome icon font and Titillium web font)
-* Mockup Photoshop PSD
-* Mockup PDF
-* Mockup JPG export
+* Mockup (Photoshop PSD, PDF, and JPG formats)
 * ZIP file of all of the above
 
 ## Schedule Email
@@ -24,7 +21,7 @@ In your phone interview with Don, he mentioned that I would be reaching out to s
 * Take 3 hours
 * Can be done during the day, after work, or on the weekend (your choice)
 * Need to be scheduled in advance
-* Only need a browser and internet connection to complete (via CodePen)
+* Only need a browser and internet connection to complete (via [CodePen](https://codepen.io/))
 * Consist of consuming an API to display some data
 * Be fun (if you like Star Wars and coding)
 
@@ -36,13 +33,13 @@ Thank you!
 
 ## Test Appointment
 
-Instructions will be send right before [ENTER START TIME] EST. You will be using CodePen to share your work.
+Instructions will be send right before [ENTER START TIME] EST. You will be using [CodePen](https://codepen.io/) to write and share your work.
 
 ## Test Email
 
 [INSERT NAME],
 
-The instructions and resources for the Front End Dev Test can be found here: https://www.dropbox.com/s/jrnw3tk2ptw20ac/front-end-dev-test.zip?dl=0. Download that ZIP file and read through the instructions before you start. Be sure to email me if you have any questions.
+The instructions and resources for the Front End Dev Test can be found here: https://www.dropbox.com/s/jrnw3tk2ptw20ac/front-end-dev-test.zip?dl=0. Download that ZIP file and read through the instructions before you start. You will be using [CodePen](https://codepen.io/) to write and share your code (you can create an account for free). Be sure to email me if you have any questions.
 
 Please begin at [ENTER START TIME] and end at [ENTER END TIME] EST. Instructions on what to do when you are finished are included in the ZIP file.
 
